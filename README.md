@@ -8,4 +8,4 @@
 ![](prompt.PNG)
 
 ### Answer
-#### I found the solution to this problem using recursive function.
+#### I found the plotting solution to this problem using recursive function. Also, after analysing the created graph, I found out that it converges to 2 when n tends to infinity.
