@@ -23,7 +23,7 @@ print("Answer for n roots is ", str(getroot(n)), "\n \n")
 
 print ("for all roots till n, the values of (x,y) to be plotted are as follows")
 n= int(n)
-for i in range(0,n):
+for i in range(0,n+1):
     output = "(" + str(i) + "," + str(getroot(i)) + ")\n"
     x.append(i)
     y.append(getroot(i))
