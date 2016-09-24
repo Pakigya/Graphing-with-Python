@@ -17,13 +17,13 @@
 ###Output:
 
 #### When n = 5
-![](img/figure_1.PNG)
+![](img/figure_1.png)
 
 #### When n = 10
-![](img/figure_2.PNG)
+![](img/figure_2.png)
 
 #### When n = 20
-![](img/figure_3.PNG)
+![](img/figure_3.png)
 
 #### When n = 100
-![](img/figure_4.PNG)
+![](img/figure_4.png)
